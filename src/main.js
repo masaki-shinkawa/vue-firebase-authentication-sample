@@ -4,7 +4,7 @@ import App from './App.vue'
 import firebase from 'firebase/app';
 import 'firebase/auth';
 
-var config = {
+const config = {
   apiKey: "AIzaSyAsbEOjgm12wwwMFHg-V6KqmYXtd6YxLUY",
   authDomain: "fb-auth-test-1111.firebaseapp.com",
   databaseURL: "https://fb-auth-test-1111.firebaseio.com",
